@@ -1,0 +1,10 @@
+{
+  "name": "deepdecode",
+  "version": "1.0.0",
+  "description": "deep decodeURIComponent",
+  "main": "index.js",
+  "repository": "https://github.com/parthikrb/deepdecode",
+  "author": "Parthiban Baskar",
+  "license": "MIT",
+  "private": false
+}
