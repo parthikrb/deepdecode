@@ -1,9 +1,12 @@
 {
   "name": "deepdecode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "deep decodeURIComponent",
   "main": "index.js",
-  "repository": "https://github.com/parthikrb/deepdecode",
+  "repository": "https://github.com/parthikrb/deepdecode.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "Parthiban Baskar",
   "license": "MIT",
   "private": false
