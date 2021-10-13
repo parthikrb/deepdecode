@@ -5,7 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/parthikrb/deepdecode.git",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@parthikrb:registry": "https://npm.pkg.github.com"
+  },
+  "script": {
+    "test": "exit 0"
   },
   "author": "Parthiban Baskar",
   "license": "MIT",
