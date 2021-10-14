@@ -8,7 +8,8 @@
     "@parthikrb:registry": "https://npm.pkg.github.com"
   },
   "script": {
-    "test": "exit 0"
+    "test": "exit 0",
+    "create:npmrc": "node ./scripts/create-npmrc.js"
   },
   "author": "Parthiban Baskar",
   "license": "MIT",
