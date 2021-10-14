@@ -7,8 +7,10 @@
   "publishConfig": {
     "@parthikrb:registry": "https://npm.pkg.github.com"
   },
-  "script": {
+  "type": "module",
+  "scripts": {
     "test": "exit 0",
+    "patch": "npm version patch",
     "create:npmrc": "node ./scripts/create-npmrc.js"
   },
   "author": "Parthiban Baskar",
