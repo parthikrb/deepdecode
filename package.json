@@ -1,6 +1,6 @@
 {
   "name": "deepdecode",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "deep decodeURIComponent",
   "main": "index.js",
   "repository": "https://github.com/parthikrb/deepdecode.git",
